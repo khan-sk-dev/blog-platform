@@ -9,9 +9,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/spring-projects/spring-framework/main/src/docs/spring-framework.png" alt="Spring Logo" width="200"/>
-</div>
 
 ## 📝 Description
 
